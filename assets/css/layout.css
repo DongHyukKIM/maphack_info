@@ -1,0 +1,42 @@
+body {
+  margin: 0 0 0 0;
+}
+
+.nav {
+  height: 100px;
+  width: 100%;
+}
+
+.container {
+  margin: auto;
+  max-width: 80%;
+  width: 100%;
+}
+
+.logo {
+  float: left;
+  margin-top: 20px;
+}
+
+.logo > img {
+  height: 50px;
+  width: 50px;
+}
+
+.menu {
+  float: right;
+  width: 80%;
+}
+
+.menu > li {
+  display: inline-block;
+  margin-top: 10px;
+}
+
+.title-wrapper {
+  padding-top: 100px;
+}
+
+.header-title {
+  padding: 10 10 15 10;
+}
