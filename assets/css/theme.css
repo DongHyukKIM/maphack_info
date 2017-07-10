@@ -33,7 +33,7 @@ header {
   background-image: url('../images/header.jpg');
   background-position: top center;
   background-size: cover;
-  height: 450px;
+  height: 100%;
   width: 100%;
 }
 
